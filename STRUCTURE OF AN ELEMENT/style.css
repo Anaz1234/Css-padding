@@ -1,0 +1,52 @@
+img{
+    width: 200px;
+    height: 250px;
+    border: 20px groove rgba(10, 115, 145, 0.928);
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(5, 115, 125);
+    border-color: rgb(23, 119, 229);
+}
+#iPhone{
+    background-color: rgb(116, 84, 19);
+    border: 20px dotted rgba(125, 31, 187, 0.928);
+    border-color: rgb(0, 0, 0);
+
+}
+
+
+#mobiles{
+background-color: rgb(197, 214, 219) ;
+padding-right: 45%;
+padding-left: 45%;
+padding-top: 8%;
+display: inline-block;
+padding-bottom: 8%;
+border: 20px double black;
+margin: auto;;
+
+}
+#home{
+background-color: rgb(33, 104, 22) ;
+padding-right: 30%;
+padding-left: 30%;
+padding-top: 5%;
+display: inline-block;
+padding-bottom: 8%;
+border: 20px dotted black;
+margin-left: 100px;
+
+}
+
+#realme1{
+    width: 200px;
+    box-sizing: content-box;
+    border: 20px double grey;
+
+}
+#realme2{
+    box-sizing: border-box;
+    width: 200px;
+    border: 20px double grey;
+}
+
